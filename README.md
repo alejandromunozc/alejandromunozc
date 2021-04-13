@@ -7,9 +7,9 @@ In constant learning of new technologies, I like Backend development, Frontend a
 ![HTML5](https://img.shields.io/badge/-HTML5-555555?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-555555?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555555?style=flat&logo=javascript)
-![NodeJs](https://img.shields.io/badge/-JavaScript-555555?style=flat&logo=node.js)
-![ExpressJs](https://img.shields.io/badge/-NodeJs-555555?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/-NodeJs-555555?style=flat&logo=mongodb)
+![NodeJs](https://img.shields.io/badge/-NodeJs-555555?style=flat&logo=node.js)
+![ExpressJs](https://img.shields.io/badge/-ExpressJs-555555?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-555555?style=flat&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-444444?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 
