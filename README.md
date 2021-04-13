@@ -1,4 +1,4 @@
-## Hi, I'm Cristian Alejandro Muñoz from Medellìn, Colombia!
+## Hi, I'm Cristian Alejandro Muñoz from Medellín, Colombia!
 
 In constant learning of new technologies, I like Backend development, Frontend and embedded systems, soon mobile development.
 
